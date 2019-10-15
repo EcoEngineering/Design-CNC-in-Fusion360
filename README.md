@@ -1,0 +1,2 @@
+# Design-CNC-in-Fusion360
+Fusion360 defines your creativity in a way that you can create your own CNC designy and change its parts or size anytime and experiment with different parameters like profiles or sliders sizes etc. When you are eventually satisfied with your creation – then print BOM from Fusion360, order components and have fun with making your own CNC. Our primary target is a low-cost customizable CNC for all makers and developers. The possibilities are unlimited with a help of the CAD software.
